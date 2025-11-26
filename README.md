@@ -3,6 +3,10 @@
 **CHATGPT-Clone** 🤖
 *CHATGPT-Clone is a simple AI chat application that replicates the core experience of interacting with ChatGPT. It allows users to send messages, receive intelligent responses, and explore how modern conversational AI works behind the scenes. This project is built to help beginners understand API integration, frontend–backend communication, and real-time chat functionality. It’s lightweight, easy to customize, and perfect for learning or extending into a more advanced AI-powered assistant.*
 
+🌐 Live Demo
+-------------
+You can access the live version of this project: [Here!!](https://mrk-gpt.vercel.app/)
+
 
 
 🧰 Tech Stack Table
